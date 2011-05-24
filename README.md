@@ -13,6 +13,7 @@ Example
 -------
 
 ``` php
+<?php
 class myThread extends Thread {
     
     function run() {
